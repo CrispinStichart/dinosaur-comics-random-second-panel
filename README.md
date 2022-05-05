@@ -6,7 +6,7 @@
 
 There is a webcomic by the name of Dinosaur Comics. Naturally, its URL is [qwantz.com][qwantz] (although you can also access it via [chewbac.ca][chewbacca]).
 
-It's what wikipedia calls a "[constrained comic][wiki]" -- in this case the constraint is that in every comic, the art remains the same (with some minor exceptions).  
+It's what Wikipedia calls a "[constrained comic][wiki]" -- in this case the constraint is that in every comic, the art remains the same (with some minor exceptions).  
 
 You might think that the author, Ryan North, would run out of content, but after almost two decades and just under 4000 comics, he's still going strong.
 
@@ -16,7 +16,7 @@ Due to the nature of Ryan's writing style, the second panel of almost any of the
 
 In the long-ago times (circa 2009) someone had written a randomizer that would do just that. There was a URL you could go to that would return a random second panel, and... that was it. That was all it needed to do. 
 
-Back then, I had a website on which I used this randomizer, and I loved it. I recently remembered it and decided I wanted the same thing my [current website][site], but sadly the olf script URL is dead, and I couldn't find a new version. 
+Back then, I had a website on which I used this randomizer, and I loved it. I recently remembered it and decided I wanted the same thing my [current website][site], but sadly the old script URL is dead, and I couldn't find a new version. 
 
 So I made one!
 
@@ -24,7 +24,7 @@ So I made one!
 
 Seriously, last time I messed around with making server-side websites, there were no free offerings. If you wanted a server you could actually do something with, you had to pay for it. 
 
-And once you paid for it, you had to manage it. Take your eyes off it for a minute, and next thing you know it's part of a russian botnet. 
+And once you paid for it, you had to manage it. Take your eyes off it for a minute, and next thing you know it's part of a Russian botnet. 
 
 Today, in the span of an hour, I:
 
