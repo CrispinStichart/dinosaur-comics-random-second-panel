@@ -53,6 +53,51 @@ If you like this but want to host it yourself, or use the panels for another pur
 
 Running `bulk-downloader.py` will download and crop all currently existing comics (it starts from 1 and keeps going until it runs out), skipping already downloaded ones.
 
+## Oh and one more thing
+
+During the course of making this, I discovered that every Dinosaur Comics page includes this as an HTML comment at the bottom of the source:
+
+```
+                                          ,~~~~~~~~~~~~~~~~~~~~,
+                                        ,'   Um what!  What    ',
+                                        |    does that code      |
+                                        ',   even MEAN??        ,'
+                                          '~~~~~~.,   ,.~~~~~~~'
+                                                  |  /
+                                                  | /
+                                                  |/
+                                                  '
+                                           .~-,
+                                         .' `,>
+                                      .-'   ,>  <7`,
+                                    ,`     ,>  <7  }
+                                   {   o   !> <7  /
+                                   {       j_7`  !
+                                   :            j'
+                                    `,         ]
+                                     F        }
+                                    F       , {
+                                   F         `.   rr
+                                 .F          | `=-"
+       _,-`                    .F            `,
+     ,`;                     .F               j
+    :  7                    F                 ;
+    :  `^,                F`                 ,'
+    `,    `^,          ,F`     .          ,  /
+      `,     `^-^-^-^-`       ;           | ;
+        `.                    :          .`/      ,-^,-
+          `-.                 }         ,'' `,_.-^ /'
+             `-,___           ;      .'` -_      ,7
+                   ``=-....-={     ,/      `-','`Q
+                              \     |                .-'-.]
+                               `,   `.             .`  0  `.
+                                `,   l_           `|  __   |`
+                               .C.-,___`==,        |  ||   |
+
+```
+
+I feel ya, T-rex.
+
 
 [site]: https://crispinstichart.github.io/
 [qwantz]: https://qwantz.com/
