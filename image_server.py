@@ -8,6 +8,14 @@ PANELS_DIR = "panels/"
 IMAGES = []
 
 
+@app.route("/")
+def index():
+    return (
+        "Go to /random for a random second panel, or "
+        "/comic/<comic_num> for a specific panel."
+    )
+
+
 @app.route("/random")
 def random_comic():
     return send_file(random.choice(IMAGES), mimetype="image/png")
